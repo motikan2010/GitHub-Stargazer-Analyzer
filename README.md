@@ -1,5 +1,7 @@
 # GitHub Stargazer Analyzer
 
+![readme_1.png](./image/readme_1.png)
+
 Create word_cloud image for analyzed star user.
 
 ## Using
