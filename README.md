@@ -1,5 +1,7 @@
 # GitHub Stargazer Analyzer
 
+Create word_cloud image for analyzed star user.
+
 ## Using
 
 ### 1. Requirement
